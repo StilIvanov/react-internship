@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-internship/static/css/main.9c6c87f3.css",
-    "main.js": "/react-internship/static/js/main.1000fa6b.js",
+    "main.css": "/react-internship/static/css/main.95f649dc.css",
+    "main.js": "/react-internship/static/js/main.c942e931.js",
     "static/js/787.f2831b79.chunk.js": "/react-internship/static/js/787.f2831b79.chunk.js",
     "static/media/icofont.woff": "/react-internship/static/media/icofont.dad3accba068281878f1.woff",
     "static/media/icofont.woff2": "/react-internship/static/media/icofont.9c33516aab48c61e3081.woff2",
@@ -30,12 +30,12 @@
     "index.html": "/react-internship/index.html",
     "static/media/slick.woff": "/react-internship/static/media/slick.295183786cd8a1389865.woff",
     "static/media/ethereum.svg": "/react-internship/static/media/ethereum.df265e367364f285053a1285ad8d418d.svg",
-    "main.9c6c87f3.css.map": "/react-internship/static/css/main.9c6c87f3.css.map",
-    "main.1000fa6b.js.map": "/react-internship/static/js/main.1000fa6b.js.map",
+    "main.95f649dc.css.map": "/react-internship/static/css/main.95f649dc.css.map",
+    "main.c942e931.js.map": "/react-internship/static/js/main.c942e931.js.map",
     "787.f2831b79.chunk.js.map": "/react-internship/static/js/787.f2831b79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c6c87f3.css",
-    "static/js/main.1000fa6b.js"
+    "static/css/main.95f649dc.css",
+    "static/js/main.c942e931.js"
   ]
 }
