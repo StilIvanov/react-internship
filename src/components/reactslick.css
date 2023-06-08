@@ -1,0 +1,11 @@
+.slick-slide {
+    margin: 0 10px;
+    width: 100%;
+}
+
+.slick-list {
+    margin: 0 -10px;
+    margin-bottom: 0;
+    height: 500px;
+    width: 100%;
+}
